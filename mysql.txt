@@ -59,6 +59,7 @@ INSERT INTO `booking` (`uname`, `Tnumber`, `class`, `doj`, `DOB`, `fromstn`, `to
 ('Ankit', 12009, 'SL', '2017-04-27', '2017-04-27', 'SURAT', 'BARODA', 'ayush', 15, 'male', 'Confirmed'),
 ('ayush', 12931, '3A', '2017-04-28', '2017-04-28', 'SURAT', 'ANAND', 'akhil', 15, 'male', 'Confirmed'),
 ('ayush', 12932, '2A', '2017-05-31', '2017-04-28', 'SURAT', 'ANAND', 'smatrt', 56, 'male', 'Confirmed'),
+('rishabh', 12932, '1A', '2017-05-31', '2017-04-26', 'SURAT', 'ANAND', 'hola', 50, 'male', 'Waiting'),
 ('ayush', 12932, '2A', '2017-05-31', '2017-04-28', 'SURAT', 'ANAND', 'ahjs', 56, 'male', 'Confirmed');
 
 -- --------------------------------------------------------
