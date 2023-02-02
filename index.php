@@ -5,7 +5,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Indian Railways </title>
+	<title> Indian Railway Reservation </title>
 	<link rel="shortcut icon" href="images/favicon.png"></link>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
