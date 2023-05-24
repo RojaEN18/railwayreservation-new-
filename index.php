@@ -63,7 +63,7 @@ session_start();
 		<div class="navbar navbar-inverse">
 			<div class="navbar-inner">
 				<div class="container" >
-				<a class="brand" href="index.php" >HOME</a>
+				<a class="brand" href="index.php" >HOME PAGE</a>
 				<a class="brand" href="train.php" >FIND TRAIN</a>
 				<a class="brand" href="reservation.php">RESERVATION</a>
 				<a class="brand" href="profile.php">PROFILE</a>
