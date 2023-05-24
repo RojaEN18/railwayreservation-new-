@@ -54,7 +54,7 @@ session_start();
 			
 			</div>
 			<div id="heading">
-				<a href="index.php">Indian Railways Reservation</a>
+				<a href="index.php">Indian Railways</a>
 			</div>
 			</div>
 		</div>
